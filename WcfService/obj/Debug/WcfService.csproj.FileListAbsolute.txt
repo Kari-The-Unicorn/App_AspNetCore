@@ -1,0 +1,6 @@
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\bin\WcfService.dll.config
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\bin\WcfService.dll
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\bin\WcfService.pdb
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\obj\Debug\WcfService.dll
+C:\Users\karol\source\repos\App_AspNetCore\WcfService\obj\Debug\WcfService.pdb
